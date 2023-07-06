@@ -12,8 +12,6 @@
 ## Dataset Information
 Dataset contains 32 features that are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 
-Link to dataset - https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
-
 ## EDA
 Used count plot for finding out whether the given dataset is balanced. I looked at the distributions of the features and analyzed correlation of the variables for finding out multicollinearity.
  Below are a few highlights from exploratory data analysis. 
