@@ -62,6 +62,6 @@ I made a sample prediction with the Tuned Logistic regression model with the giv
 
 radius_mean = 11.13, texture_mean = 16.62, smoothness_mean = 0.08151, compactness_mean = 0.03834, symmetry_mean = 0.1511, fractal_dimension_mean = 0.06148, radius_se = 0.1415, texture_se = 0.9671, smoothness_se = 0.005883, compactness_se = 0.006263, concave points_se = 0.006189, symmetry_se = 0.02009, symmetry_worst = 0.2383
 
-![alt text](https://github.com/Vijayalakshmi-Indhuja/breast_cancer_classification/blob/main/images/sample_prediction.jpg"Sample prediction")
+![alt text](https://github.com/Vijayalakshmi-Indhuja/breast_cancer_classification/blob/main/images/sample_prediction.jpg "Sample prediction")
 
 The machine learning model predicted that the cancer with given observations is **Benign**
